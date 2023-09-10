@@ -10,6 +10,10 @@ void main() {
 
   // Функция с имменованными параметрами
   // sum(firstParameter: a, secondParameter: b);
+
+  // Функция которая возвращает значение
+  // final result = sum(a, b);
+  // print("Result is $result");
 }
 
 // Функция
